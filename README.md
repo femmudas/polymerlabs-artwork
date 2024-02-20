@@ -1,2 +1,1 @@
-# polymerlabs-artwork
-contribute
+
